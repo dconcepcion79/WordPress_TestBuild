@@ -1,0 +1,938 @@
+# Translation of the WordPress theme HappenStance 1.0 by Tomas Toman.
+# This file is distributed under the same license as the HappenStance package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HappenStance 1.0\n"
+"POT-Creation-Date: 2014-11-29 08:37+0100\n"
+"PO-Revision-Date: 2015-01-20 15:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tomas Toman <webdesign@tomastoman.cz>\n"
+"Language: Čeština\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:9 search.php:45
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Je nám líto, ale nebyly nalezeny žádné výsledky pro váš požadavek. Možná, že "
+"vyhledávání vám pomůže najít související obsah."
+
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiv článků ze dne: %s"
+
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiv článků za měsíc: %s"
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiv článků za rok: %s"
+
+#: archive.php:17
+msgid "Archive"
+msgstr "Archiv"
+
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiv autora: %s"
+
+#: comments.php:15 content-archives.php:18 content-grid.php:22 single.php:21
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentář"
+msgstr[1] "%1$s Komentářů"
+
+#: comments.php:24
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:25
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Přidávání komentářů není povoleno."
+
+#: comments.php:36
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: comments.php:37
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:38
+msgid "Comment..."
+msgstr "Komentář..."
+
+#: comments.php:42
+msgid "Leave a Comment"
+msgstr "Napsat komentář"
+
+#: functions.php:118
+msgid "Main Header Menu"
+msgstr "Hlavní navigace v záhlaví"
+
+#: functions.php:128
+msgid "Right Sidebar"
+msgstr "Hlavní postranní sloupec"
+
+#: functions.php:130
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Pravý postranní sloupec, který se objeví u všech stránek a příspěvků."
+
+#: functions.php:137
+msgid "Footer left widget area"
+msgstr "Levá oblast pro widgety v zápatí"
+
+#: functions.php:139
+msgid "Left column with widgets in footer."
+msgstr "Levý sloupec s widgety v zápatí."
+
+#: functions.php:146
+msgid "Footer middle widget area"
+msgstr "Prostřední oblast pro widgety v zápatí"
+
+#: functions.php:148
+msgid "Middle column with widgets in footer."
+msgstr "Prostřední sloupec s widgety v zápatí."
+
+#: functions.php:155
+msgid "Footer right widget area"
+msgstr "Pravá oblast pro widgety v zápatí"
+
+#: functions.php:157
+msgid "Right column with widgets in footer."
+msgstr "Pravý sloupec s widgety v zápatí."
+
+#: functions.php:164
+msgid "Footer notices"
+msgstr "Informace v zápatí"
+
+#: functions.php:166
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Řádek pro informace o autorství a další poznámky pod oblastmi pro widgety v "
+"zápatí. Vložte sem jeden textový widget. Pole \"Název\" by u tohoto widgetu "
+"mělo zůstat prázdné."
+
+#: functions.php:188
+msgid "Read more"
+msgstr "Číst více"
+
+#: functions.php:202
+msgid "Post navigation"
+msgstr "Navigace mezi příspěvky"
+
+#: functions.php:210 search.php:32
+msgid "&larr; Previous"
+msgstr "&larr; Předchozí"
+
+#: functions.php:211 search.php:33
+msgid "Next &rarr;"
+msgstr "Další &rarr;"
+
+#: functions.php:234
+msgid "&larr; Previous post"
+msgstr "&larr; Předchozí příspěvek"
+
+#: functions.php:236
+msgid "Next post &rarr;"
+msgstr "Další příspěvek &rarr;"
+
+#: functions.php:254
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:254
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#: functions.php:267
+msgid "(Post author)"
+msgstr "(Autor)"
+
+#: functions.php:273
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: functions.php:279
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: functions.php:285
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: functions.php:287 page.php:17 single.php:34 template-full-width.php:18
+#: template-landing-page.php:17 template-without-title.php:19
+msgid "Edit"
+msgstr "Upravit"
+
+#: index.php:8 functions/be/fw-options.php:651
+msgid "Latest Posts"
+msgstr "Nejnovější Příspěvky"
+
+#: page.php:16 single.php:33 template-full-width.php:17
+#: template-landing-page.php:16 template-without-title.php:18
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Počet výsledků: "
+
+#: search.php:24
+msgid "Search results navigation"
+msgstr "Navigace mezi výsledky vyhledávání"
+
+#: search.php:48
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Je nám líto, ale Vašim kritériím nevyhovuje žádný výsledek. Zkuste to prosím "
+"znovu s jiným vyhledávacím dotazem."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Hledat..."
+
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiv štítku: %s"
+
+#: functions/be/fw-options.php:237
+msgid "HappenStance Options"
+msgstr "HappenStance Možnosti"
+
+#: functions/be/fw-options.php:248
+msgid "<i class=\"icon_house\" aria-hidden=\"true\"></i>Welcome"
+msgstr "<i class=\"icon_house\" aria-hidden=\"true\"></i>Vítejte"
+
+#: functions/be/fw-options.php:255
+msgid "<i class=\"icon_key\" aria-hidden=\"true\"></i>General Settings"
+msgstr "<i class=\"icon_key\" aria-hidden=\"true\"></i>Hlavní nastavení"
+
+#: functions/be/fw-options.php:262
+msgid "<i class=\"icon_cog\" aria-hidden=\"true\"></i>Header"
+msgstr "<i class=\"icon_cog\" aria-hidden=\"true\"></i>Záhlaví"
+
+#: functions/be/fw-options.php:269
+msgid "<i class=\"icon_documents\" aria-hidden=\"true\"></i>Posts/Pages"
+msgstr "<i class=\"icon_documents\" aria-hidden=\"true\"></i>Příspěvky/Stránky"
+
+#: functions/be/fw-options.php:276
+msgid "<i class=\"icon_tags\" aria-hidden=\"true\"></i>Post Entries"
+msgstr "<i class=\"icon_tags\" aria-hidden=\"true\"></i>Výpisy příspěvků"
+
+#: functions/be/fw-options.php:283
+msgid "<i class=\"icon_pens\" aria-hidden=\"true\"></i>Fonts"
+msgstr "<i class=\"icon_pens\" aria-hidden=\"true\"></i>Písma"
+
+#: functions/be/fw-options.php:290
+msgid "<i class=\"icon_tools\" aria-hidden=\"true\"></i>Other Settings"
+msgstr "<i class=\"icon_tools\" aria-hidden=\"true\"></i>Další nastavení"
+
+#: functions/be/fw-options.php:296
+msgid "<i class=\"icon_folder-add\" aria-hidden=\"true\"></i>Suggested Plugins"
+msgstr ""
+"<i class=\"icon_folder-add\" aria-hidden=\"true\"></i>Doporučené pluginy"
+
+#: functions/be/fw-options.php:302
+msgid "<i class=\"icon_cart\" aria-hidden=\"true\"></i>GET PREMIUM"
+msgstr "<i class=\"icon_cart\" aria-hidden=\"true\"></i>VERZE PREMIUM"
+
+#: functions/be/fw-options.php:324
+msgid "Welcome to HappenStance!"
+msgstr "Vítá Vás Šablona HappenStance!"
+
+#: functions/be/fw-options.php:328
+msgid ""
+"First of all, I would like to thank you for choosing HappenStance! I firmly "
+"believe that you will be satisfied with this theme. In case of any problems "
+"or doubts, you can use the <a href=\"http://www.tomastoman.cz/support\" "
+"target=\"_blank\">HappenStance Official Support</a> (in English, German or "
+"Czech)."
+msgstr ""
+"Na úvod bych Vám chtěl poděkovat, že jste si vybrali šablonu HappenStance! "
+"Pevně věřím, že budete se šablonou spokojeni. V případě jakýchkoli problémů "
+"či nejasností můžete použít <a href=\"http://www.tomastoman.cz/support\" "
+"target=\"_blank\">Oficiální podporu šablony HappenStance</a> (v angličtině, "
+"němčině nebo češtině)."
+
+#: functions/be/fw-options.php:331
+msgid "About HappenStance"
+msgstr "O Šabloně HappenStance"
+
+#: functions/be/fw-options.php:335
+msgid ""
+"HappenStance is an easily customizable theme which can be used for your "
+"Blog, Magazine, Business, eCommerce or Events website. It is a fully "
+"responsive and Retina ready theme that allows for easy viewing on any device."
+msgstr ""
+"HappenStance je snadno přizpůsobitelná šablona, kterou můžete použít pro Váš "
+"blog, magazín, firemní stránky, e-shop či web s nabídkou pořádaných akcí. "
+"Šablona je plně responsivní, což umožňuje snadné prohlížení na všech "
+"zařízeních."
+
+#: functions/be/fw-options.php:350
+msgid "General Settings"
+msgstr "Hlavní Nastavení"
+
+#: functions/be/fw-options.php:354
+msgid "Color Scheme"
+msgstr "Barevné Schéma"
+
+#: functions/be/fw-options.php:355
+msgid ""
+"Select one of the preconfigured Color Schemes. In Premium version, you can "
+"build your custom color scheme."
+msgstr ""
+"Vyberte jedno z přednastavených barevných schémat. Ve verzi Premium můžete "
+"nastavit vlastní barevné schéma."
+
+#: functions/be/fw-options.php:359
+msgid "Blue (default)"
+msgstr "Modrá (výchozí)"
+
+#: functions/be/fw-options.php:360
+msgid "Gray"
+msgstr "Šedá"
+
+#: functions/be/fw-options.php:361
+msgid "Green"
+msgstr "Zelená"
+
+#: functions/be/fw-options.php:362
+msgid "Purple"
+msgstr "Fialová"
+
+#: functions/be/fw-options.php:365
+msgid "Layout Style"
+msgstr "Styl Rozvržení"
+
+#: functions/be/fw-options.php:366
+msgid "Choose the layout style of your website."
+msgstr "Vyberte styl rozvržení Vašeho webu."
+
+#: functions/be/fw-options.php:370
+msgid "Boxed"
+msgstr "Box"
+
+#: functions/be/fw-options.php:371
+msgid "Wide"
+msgstr "Široký"
+
+#: functions/be/fw-options.php:374
+msgid "Favicon URL"
+msgstr "URL Favikony"
+
+#: functions/be/fw-options.php:375
+msgid ""
+"Upload your own favicon image (16x16px) or directly insert its URL. You can "
+"create your own favicon using <a href=\"http://www.favicon.cc/\" target="
+"\"_blank\">Favicon generator</a>."
+msgstr ""
+"Nahrajte vlastní favikonu (16x16px), nebo přímo vložte její URL. Pomocí <a "
+"href=\"http://www.favicon.cc/\" target=\"_blank\">Favicon generatoru</a> "
+"můžte vytvořit vlastní favikonu."
+
+#: functions/be/fw-options.php:380
+msgid "Display Breadcrumb Navigation"
+msgstr "Zobrazit Drobečkovou Navigaci"
+
+#: functions/be/fw-options.php:381
+msgid ""
+"Set the Breadcrumb Navigation to be visible or not. The Breadcrumb NavXT "
+"plugin has to be installed for displaying it."
+msgstr ""
+"Nastavte, zdali má být zobrazena drobečková navigace. Pro její zobrazení "
+"musí být nainstalován plugin Breadcrumb NavXT."
+
+#: functions/be/fw-options.php:385 functions/be/fw-options.php:394
+#: functions/be/fw-options.php:407 functions/be/fw-options.php:434
+#: functions/be/fw-options.php:447 functions/be/fw-options.php:456
+#: functions/be/fw-options.php:496 functions/be/fw-options.php:505
+#: functions/be/fw-options.php:559 functions/be/fw-options.php:568
+#: functions/be/fw-options.php:577 functions/be/fw-options.php:591
+#: functions/be/fw-options.php:624
+msgid "Display"
+msgstr "Zobrazit"
+
+#: functions/be/fw-options.php:386 functions/be/fw-options.php:395
+#: functions/be/fw-options.php:408 functions/be/fw-options.php:435
+#: functions/be/fw-options.php:448 functions/be/fw-options.php:457
+#: functions/be/fw-options.php:497 functions/be/fw-options.php:506
+#: functions/be/fw-options.php:560 functions/be/fw-options.php:569
+#: functions/be/fw-options.php:578 functions/be/fw-options.php:592
+#: functions/be/fw-options.php:625
+msgid "Hide"
+msgstr "Skrýt"
+
+#: functions/be/fw-options.php:389
+msgid "Display Scroll-top Button"
+msgstr "Zobrazit Scroll-top Tlačítko"
+
+#: functions/be/fw-options.php:390
+msgid "Set the scroll-top button to be visible or not."
+msgstr "Nastavte, zdali má být zobrazeno scroll-top tlačítko."
+
+#: functions/be/fw-options.php:398
+msgid "Background Settings (for Boxed layout)"
+msgstr "Nastavení Pozadí (pro Styl Rozvržení Box)"
+
+#: functions/be/fw-options.php:402
+msgid "Background Pattern"
+msgstr "Vzorek na Pozadí"
+
+#: functions/be/fw-options.php:403
+msgid ""
+"Set the main background pattern (hatches) to be visible or not. This option "
+"works only in the Boxed layout style."
+msgstr ""
+"Nastavte, zdali má být zobrazen vzorek na pozadí (šrafy). Tato volba funguje "
+"pouze pro styl rozvržení Box."
+
+#: functions/be/fw-options.php:411
+msgid "Background Pattern Opacity"
+msgstr "Průhlednost Vzorku"
+
+#: functions/be/fw-options.php:412
+msgid ""
+"Select transparency of the main background pattern (10 = greatest "
+"transparency, 100 = opaque background pattern). This option works only in "
+"the Boxed layout style."
+msgstr ""
+"Nastavte průhlednost vzorku na pozadí (10 = největší průhlednost, 100 = "
+"neprůhledný vzorek). Tato volba funguje pouze pro styl rozvržení Box."
+
+#: functions/be/fw-options.php:416
+msgid "Default"
+msgstr "Výchozí"
+
+#: functions/be/fw-options.php:429
+msgid "Display Shadow"
+msgstr "Zobrazovat Stín"
+
+#: functions/be/fw-options.php:430
+msgid ""
+"Set the main page container shadow to be visible or not. This option works "
+"only in the Boxed layout."
+msgstr ""
+"Nastavte, zdali má být zobrazen stín při okrajích hlavní obsahové části. "
+"Tato volba funguje pouze pro styl rozvržení Box."
+
+#: functions/be/fw-options.php:438
+msgid "Sidebar Settings"
+msgstr "Nastavení Postranního Sloupce"
+
+#: functions/be/fw-options.php:442
+msgid "Display Sidebar on Posts/Pages"
+msgstr "Zobrazit na Příspěvcích/Stránkách"
+
+#: functions/be/fw-options.php:443
+msgid ""
+"Set the right sidebar to be visible or not on the single posts and pages."
+msgstr ""
+"Nastavte, zdali má být zobrazen pravý postranní sloupec na jednotlivých "
+"příspěvcích a stránkách."
+
+#: functions/be/fw-options.php:451
+msgid "Display Sidebar on Archives"
+msgstr "Zobrazit na Archivech"
+
+#: functions/be/fw-options.php:452
+msgid ""
+"Set the right sidebar to be visible or not on the archive pages (including "
+"all archives, homepage and search results)."
+msgstr ""
+"Nastavte, zdali má být zobrazen pravý postranní sloupec na stránkách archivů "
+"(zahrnuje archivy dle data a kategorie, domovskou stránku a výsledky "
+"vyhledávání)."
+
+#: functions/be/fw-options.php:472
+msgid "Header Settings"
+msgstr "Nastavení Záhlaví"
+
+#: functions/be/fw-options.php:476
+msgid "Display Header Image"
+msgstr "Zobrazování Obrázku v Záhlaví"
+
+#: functions/be/fw-options.php:477
+msgid ""
+"Set the <a href=\"themes.php?page=custom-header\">Header Image</a> to be "
+"visible on all pages or only on the homepage."
+msgstr ""
+"Nastavte, zdali má být <a href=\"themes.php?page=custom-header\">obrázek v "
+"záhlaví</a> zobrazen na všech stránkách, nebo pouze na domovské stránce."
+
+#: functions/be/fw-options.php:481
+msgid "Everywhere"
+msgstr "Všude"
+
+#: functions/be/fw-options.php:482
+msgid "Only on Homepage"
+msgstr "Pouze na domovské stránce"
+
+#: functions/be/fw-options.php:485
+msgid "Logo URL"
+msgstr "URL Loga"
+
+#: functions/be/fw-options.php:486
+msgid ""
+"Upload your own logo in .jpg, .gif or .png format or directly insert its "
+"URL. The logo will automatically replace the Site Title."
+msgstr ""
+"Nahrajte Vaše logo ve formátu .jpg, .gif nebo .png, případně přímo vložte "
+"jeho URL. Logo automaticky nahradí název webu v záhlaví."
+
+#: functions/be/fw-options.php:491
+msgid "Display Site Description"
+msgstr "Zobrazovat Popis Webu"
+
+#: functions/be/fw-options.php:492
+msgid "Set the Site Description to be visible or not in your header."
+msgstr "Nastavte, zdali se má v záhlaví zobrazovat popis webu."
+
+#: functions/be/fw-options.php:500
+msgid "Display Search Form"
+msgstr "Zobrazovat Vyhledávací Formulář"
+
+#: functions/be/fw-options.php:501
+msgid "Set the header Search Form to be visible or not."
+msgstr "Nastavte, zdali má být v záhlaví zobrazen vyhledávací formulář."
+
+#: functions/be/fw-options.php:510
+msgid "Contact Information"
+msgstr "Kontaktní Informace"
+
+#: functions/be/fw-options.php:514
+msgid "Postal Address"
+msgstr "Poštovní Adresa"
+
+#: functions/be/fw-options.php:515
+msgid "Fill here your postal address to be displayed in header."
+msgstr "Vyplňte zde Vaši poštovní adresu, která bude zobrazena v záhlaví."
+
+#: functions/be/fw-options.php:520
+msgid "Email Address"
+msgstr "Emailová Adresa"
+
+#: functions/be/fw-options.php:521
+msgid "Fill here your email address to be displayed in header."
+msgstr "Vyplňte zde Vaši elektronickou adresu, která bude zobrazena v záhlaví."
+
+#: functions/be/fw-options.php:526
+msgid "Phone Number"
+msgstr "Telefonní Číslo"
+
+#: functions/be/fw-options.php:527
+msgid "Fill here your phone number to be displayed in header."
+msgstr "Vyplňte zde Vaše telefonní číslo, které bude zobrazeno v záhlaví."
+
+#: functions/be/fw-options.php:532
+msgid "Skype Name"
+msgstr "Skype Jméno"
+
+#: functions/be/fw-options.php:533
+msgid "Fill here your Skype name to be displayed in header."
+msgstr "Vyplňte zde Vaše Skype jméno, které bude zobrazeno v záhlaví."
+
+#: functions/be/fw-options.php:550
+msgid "Post Settings"
+msgstr "Nastavení Příspěvků"
+
+#: functions/be/fw-options.php:554
+msgid "Display Featured Image on single posts"
+msgstr "Zobrazovat Náhledový Obrázek na Příspěvcích"
+
+#: functions/be/fw-options.php:555
+msgid "Set the Featured Image to be visible or not on the single posts."
+msgstr ""
+"Nastavte, zdali mají být náhledové obrázky zobrazeny na jednotlivých "
+"příspěvcích."
+
+#: functions/be/fw-options.php:563
+msgid "Display Meta Box on single posts"
+msgstr "Zobrazovat Meta Box na Příspěvcích"
+
+#: functions/be/fw-options.php:564
+msgid ""
+"Set the Meta Box (with publish date, author, category and tags) to be "
+"visible or not on the single posts."
+msgstr ""
+"Nastavte, zdali má být Meta Box (s datem publikování, autorem, kategorií a "
+"štítky) zobrazen na jednotlivých příspěvcích."
+
+#: functions/be/fw-options.php:572
+msgid "Next/Previous Post Navigation"
+msgstr "Navigace mezi Příspěvky (Předchozí/Další)"
+
+#: functions/be/fw-options.php:573
+msgid ""
+"This feature gives the possibility to easy navigate between the posts in "
+"chronological order."
+msgstr ""
+"Pomocí této funkce můžete snadno procházet mezi jednotlivými příspěvky."
+
+#: functions/be/fw-options.php:582
+msgid "Page Settings"
+msgstr "Nastavení Stránek"
+
+#: functions/be/fw-options.php:586
+msgid "Display Featured Image on pages"
+msgstr "Zobrazovat Náhledový Obrázek na Stránkách"
+
+#: functions/be/fw-options.php:587
+msgid "Set the Featured Image to be visible or not on pages."
+msgstr ""
+"Nastavte, zdali mají být náhledové obrázky zobrazeny na jednotlivých "
+"stránkách."
+
+#: functions/be/fw-options.php:606
+msgid "Post Entries Settings"
+msgstr "Nastavení Výpisu Příspěvků"
+
+#: functions/be/fw-options.php:610
+msgid "Post Entries Format"
+msgstr "Formát Výpisu Příspěvků"
+
+#: functions/be/fw-options.php:611
+msgid "Set the way how the post entries to be displayed."
+msgstr "Nastavte způsob zobrazování výpisu příspěvků."
+
+#: functions/be/fw-options.php:615
+msgid "One Column"
+msgstr "Jeden Sloupec"
+
+#: functions/be/fw-options.php:616
+msgid "Grid - Masonry"
+msgstr "Mřížka - Masonry"
+
+#: functions/be/fw-options.php:619
+msgid "Display Meta Box on Post Entries"
+msgstr "Zobrazovat Meta Box ve Výpisu Příspěvků"
+
+#: functions/be/fw-options.php:620
+msgid ""
+"Set the Meta Box (with publish date, author, comments, category and tags) to "
+"be visible or not on the post entries."
+msgstr ""
+"Nastavte, zdali má být Meta Box (s datem publikování, autorem, kategorií a "
+"štítky) zobrazen ve výpisu příspěvků."
+
+#: functions/be/fw-options.php:628
+msgid "Content/Excerpt Displaying"
+msgstr "Zobrazovat Celý Obsah/Úryvek"
+
+#: functions/be/fw-options.php:629
+msgid ""
+"Select whether you want to display the full content or the post excerpts on "
+"your archive pages (including all archives, homepage and search results)."
+msgstr ""
+"Nastavte, zdali má být ve výpisu příspěvků zobrazen celý obsah přípěvku, "
+"nebo pouze úryvek (platí pro všechny archivy, domovskou stránku a výsledky "
+"vyhledávání)."
+
+#: functions/be/fw-options.php:633
+msgid "Excerpt"
+msgstr "Úryvek"
+
+#: functions/be/fw-options.php:634
+msgid "Content"
+msgstr "Obsah"
+
+#: functions/be/fw-options.php:637
+msgid "Excerpt Length"
+msgstr "Délka Úryvku"
+
+#: functions/be/fw-options.php:638
+msgid "Set here the number of words you wish to display in the excerpt."
+msgstr "Nastavte, kolik úvodních slov se má zobrazovat v úryvku."
+
+#: functions/be/fw-options.php:643
+msgid "Blog Page"
+msgstr "Stránka Příspěvků"
+
+#: functions/be/fw-options.php:647
+msgid "Latest Posts section headline"
+msgstr "Nadpis Stránky Příspěvků"
+
+#: functions/be/fw-options.php:648
+msgid ""
+"Fill here the headline of the Latest Posts section displayed on your Blog "
+"page."
+msgstr ""
+"Vyplňte zde nadpis, který se objeví nad výpisem nejnovějších příspěvků na "
+"stránce příspěvků."
+
+#: functions/be/fw-options.php:664
+msgid "Font Settings"
+msgstr "Nastavení Písma"
+
+#: functions/be/fw-options.php:668
+msgid "Body font"
+msgstr "Písmo Hlavní Obsahové Části"
+
+#: functions/be/fw-options.php:669
+msgid "Select the main body font."
+msgstr "Vyberte písmo pro hlavní obsahovou část stránky."
+
+#: functions/be/fw-options.php:676
+msgid "Site Title font"
+msgstr "Písmo Názvu Webu"
+
+#: functions/be/fw-options.php:677
+msgid "Select a font for your Site Title in header."
+msgstr "Vyberte písmo pro název webu v záhlaví."
+
+#: functions/be/fw-options.php:684
+msgid "Site Description font"
+msgstr "Písmo Popisu Webu"
+
+#: functions/be/fw-options.php:685
+msgid "Select a font for your Site Description in header."
+msgstr "Vyberte písmo pro popis webu v záhlaví."
+
+#: functions/be/fw-options.php:692
+msgid "Page/Post Headlines font"
+msgstr "Písmo Nadpisů"
+
+#: functions/be/fw-options.php:693
+msgid "Select a font for page/post headlines (h1 - h6)."
+msgstr "Vyberte písmo pro nadpisy na stránkách a příspěvcích (h1 - h6)."
+
+#: functions/be/fw-options.php:700
+msgid "Post Entry Headline font"
+msgstr "Písmo Nadpisů ve Výpisu Příspěvků"
+
+#: functions/be/fw-options.php:701
+msgid ""
+"Select a font for Post Entry headlines displayed on index/archive/search "
+"pages."
+msgstr ""
+"Vyberte písmo pro nadpisy zobrazené na stránce příspěvků/archivech/"
+"výsledcích vyhledávání."
+
+#: functions/be/fw-options.php:708
+msgid "Sidebar/Footer Widget Headlines font"
+msgstr "Písmo Nadpisů Widgetů v Postranním Sloupci/Zápatí"
+
+#: functions/be/fw-options.php:709
+msgid "Select a font for Sidebar/Footer Widget headlines."
+msgstr "Vyberte písmo pro nadpisy widgetů v postranním sloupci a zápatí."
+
+#: functions/be/fw-options.php:716
+msgid "Main Header Menu font"
+msgstr "Písmo Hlavní Navigace v Záhlaví"
+
+#: functions/be/fw-options.php:717
+msgid "Select a font for your Main Header Menu."
+msgstr "Vyberte písmo pro hlavní navigaci v záhlaví."
+
+#: functions/be/fw-options.php:735
+msgid "Other Settings"
+msgstr "Další Nastavení"
+
+#: functions/be/fw-options.php:740
+msgid ""
+"OPTIONS: <a href=\"widgets.php\">Widgets</a> | <a href=\"nav-menus.php"
+"\">Menus</a> | <a href=\"themes.php?page=custom-header\">Header Image</a> | "
+"<a href=\"themes.php?page=custom-background\">Background Settings</a>"
+msgstr ""
+"MOŽNOSTI: <a href=\"widgets.php\">Widgety</a> | <a href=\"nav-menus.php"
+"\">Menu</a> | <a href=\"themes.php?page=custom-header\">Záhlaví</a> | <a "
+"href=\"themes.php?page=custom-background\">Pozadí</a>"
+
+#: functions/be/fw-options.php:742
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: functions/be/fw-options.php:743
+msgid ""
+"Fill here your own cascading style sheet information (CSS).<br />Example: "
+"#content p {font-size: 15px;} #sidebar p {font-size: 14px;}"
+msgstr ""
+"Zde můžete definovat vlastní kaskádové styly (CSS).<br />Příklad: #content p "
+"{font-size: 15px;} #sidebar p {font-size: 14px;}"
+
+#: functions/be/fw-options.php:759
+msgid "Suggested Plugins"
+msgstr "Doporučené Pluginy"
+
+#: functions/be/fw-options.php:764
+msgid ""
+"This theme recommends the following plugins:<br /><br />\n"
+"    1.) <a href=\"https://wordpress.org/plugins/breadcrumb-navxt/\" target="
+"\"_blank\">Breadcrumb NavXT</a><br />\n"
+"    2.) <a href=\"https://wordpress.org/plugins/the-events-calendar/\" "
+"target=\"_blank\">The Events Calendar</a>"
+msgstr ""
+"Tato šablona doporučuje instalaci následujících pluginů:<br /><br />\n"
+"    1.) <a href=\"https://wordpress.org/plugins/breadcrumb-navxt/\" target="
+"\"_blank\">Breadcrumb NavXT</a><br />\n"
+"    2.) <a href=\"https://wordpress.org/plugins/the-events-calendar/\" "
+"target=\"_blank\">The Events Calendar</a>"
+
+#: functions/be/fw-options.php:780
+msgid "Get HappenStance Premium Version"
+msgstr "Získejte HappenStance Premium Verzi"
+
+#: functions/be/fw-options.php:785
+msgid ""
+"If you would like to purchase the HappenStance Premium Version, you can do "
+"so on <a href=\"http://www.tomastoman.cz/downloads/happenstance/\" target="
+"\"_blank\">Developers Official Website</a>."
+msgstr ""
+"Pokud byste si přáli zakoupit HappenStance Premium Verzi, můžete tak učinit "
+"na <a href=\"http://www.tomastoman.cz/downloads/happenstance/\" target="
+"\"_blank\">oficiálních stránkách jejího vývojáře</a>."
+
+#: functions/be/fw-options.php:788
+msgid ""
+"<strong>What the HappenStance Premium Version offers in addition?</"
+"strong><br />\n"
+"    - Support for Drag-and-drop Page Builder with 37 in-built widgets for "
+"creating custom page layouts<br />\n"
+"    - 8 pre-defined color schemes (Blue, Gray, Green, Orange, Pink, Purple, "
+"Red and Turquoise)<br />\n"
+"    - Unlimited ability to create custom Color scheme (unlimited color "
+"settings)<br />\n"
+"    - Ability to set different Header Images for the individual pages/posts/"
+"categories<br />\n"
+"    - Ability to set different Header Slideshows for the individual pages/"
+"posts<br />\n"
+"    - Ability to set different Sidebars/Footers for the individual pages/"
+"posts<br />\n"
+"    - Image Slideshow with 3 different templates<br />\n"
+"    - Font size settings<br />\n"
+"    - Related Posts box on the single posts<br />\n"
+"    - 4 dynamic Hover effects for the Post Thumbnails (Fade, Focus, Shadow "
+"and Tilt)<br />\n"
+"    - 6 Custom widgets for displaying the latest posts from the specific "
+"categories (as a Column, Grid, List, Slider, Thumbnails and by Default - One "
+"Column)<br />\n"
+"    - Custom Tab widget (displays popular posts, recent posts, comments and "
+"tags in tabbed format)<br />\n"
+"    - Info-Box Custom widget (displays a text box with an icon)<br />\n"
+"    - Header Carousel box (slider with your Latest Posts or a Custom Menu)"
+"<br />\n"
+"    - Social Network Profile links in header (69 pre-defined icons)<br />\n"
+"    - Facebook Like Box Custom widget<br />\n"
+"    - Twitter Following Custom widget<br />\n"
+"    - Integrated Facebook/Twitter/Google+1 share buttons on posts/pages/post "
+"entries<br />\n"
+"    - Integrated automatic Sitemap generator with advanced options<br />\n"
+"    - Custom Shortcodes for adding buttons, images, slideshows, tables and "
+"highlighted texts anywhere you like<br />\n"
+"    - Custom Shortcode for displaying Google maps<br />\n"
+"    - Custom Shortcode for displaying specific listing of posts anywhere you "
+"like<br />\n"
+"    - 6 Custom Page templates<br />\n"
+"    - Ability to add custom JavaScript code"
+msgstr ""
+"<strong>Co vše nabízí HappenStance Premium Verze?</strong><br />\n"
+"    - Support for Drag-and-drop Page Builder with 37 in-built widgets for "
+"creating custom page layouts<br />\n"
+"    - 8 pre-defined color schemes (Blue, Gray, Green, Orange, Pink, Purple, "
+"Red and Turquoise)<br />\n"
+"    - Unlimited ability to create custom Color scheme (unlimited color "
+"settings)<br />\n"
+"    - Ability to set different Header Images for the individual pages/posts/"
+"categories<br />\n"
+"    - Ability to set different Header Slideshows for the individual pages/"
+"posts<br />\n"
+"    - Ability to set different Sidebars/Footers for the individual pages/"
+"posts<br />\n"
+"    - Image Slideshow with 3 different templates<br />\n"
+"    - Font size settings<br />\n"
+"    - Related Posts box on the single posts<br />\n"
+"    - 4 dynamic Hover effects for the Post Thumbnails (Fade, Focus, Shadow "
+"and Tilt)<br />\n"
+"    - 6 Custom widgets for displaying the latest posts from the specific "
+"categories (as a Column, Grid, List, Slider, Thumbnails and by Default - One "
+"Column)<br />\n"
+"    - Custom Tab widget (displays popular posts, recent posts, comments and "
+"tags in tabbed format)<br />\n"
+"    - Info-Box Custom widget (displays a text box with an icon)<br />\n"
+"    - Header Carousel box (slider with your Latest Posts or a Custom Menu)"
+"<br />\n"
+"    - Social Network Profile links in header (69 pre-defined icons)<br />\n"
+"    - Facebook Like Box Custom widget<br />\n"
+"    - Twitter Following Custom widget<br />\n"
+"    - Integrated Facebook/Twitter/Google+1 share buttons on posts/pages/post "
+"entries<br />\n"
+"    - Integrated automatic Sitemap generator with advanced options<br />\n"
+"    - Custom Shortcodes for adding buttons, images, slideshows, tables and "
+"highlighted texts anywhere you like<br />\n"
+"    - Custom Shortcode for displaying Google maps<br />\n"
+"    - Custom Shortcode for displaying specific listing of posts anywhere you "
+"like<br />\n"
+"    - 6 Custom Page templates<br />\n"
+"    - Ability to add custom JavaScript code"
+
+#: functions/be/fw-options.php:911 functions/be/fw-options.php:927
+msgid "Theme Options"
+msgstr "Nastavení šablony"
+
+#: functions/be/fw-options.php:919
+msgid "settings saved."
+msgstr "nastavení uloženo."
+
+#: functions/be/fw-options.php:920
+msgid "settings reset."
+msgstr "nastavení resetováno."
+
+#: functions/be/fw-options.php:936
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: functions/be/fw-options.php:936
+msgid "Support"
+msgstr "Podpora"
+
+#: functions/be/fw-options.php:936
+msgid "Get Premium Version"
+msgstr "Získat Verzi Premium"
+
+#: functions/be/fw-options.php:958
+msgid "Save all changes"
+msgstr "Uložit změny"
+
+#: functions/be/fw-options.php:964
+msgid "Reset all settings"
+msgstr "Obnovit výchozí nastavení"
+
+#: functions/be/fw-options.php:991 functions/be/fw-options.php:999
+msgid "Upload Image"
+msgstr "Nahrát obrázek"

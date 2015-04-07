@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mega Project\n"
+"POT-Creation-Date: 2015-03-02 15:16+0700\n"
+"PO-Revision-Date: 2015-03-02 15:16+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\megaproject\\wp-content\\plugins\\gdlr-"
+"project\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gdlr-portfolio-item.php:77
+msgid "All"
+msgstr ""
+
+#: gdlr-portfolio-item.php:209
+msgid "Client"
+msgstr ""
+
+#: gdlr-portfolio-item.php:218 gdlr-portfolio-option.php:87
+msgid "Location"
+msgstr ""
+
+#: gdlr-portfolio-item.php:227 gdlr-portfolio-option.php:91
+msgid "Scope Of Work"
+msgstr ""
+
+#: gdlr-portfolio-item.php:236 gdlr-portfolio-option.php:95
+msgid "Schedule"
+msgstr ""
+
+#: gdlr-portfolio-item.php:245 gdlr-portfolio-option.php:99
+msgid "Architect"
+msgstr ""
+
+#: gdlr-portfolio-item.php:255
+msgid "Tags"
+msgstr ""
+
+#: gdlr-portfolio-option.php:22
+msgid "Goodlayers Project Option"
+msgstr ""
+
+#: gdlr-portfolio-option.php:32
+msgid "Page Layout"
+msgstr ""
+
+#: gdlr-portfolio-option.php:35
+msgid "Project Page Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:38
+msgid "Default"
+msgstr ""
+
+#: gdlr-portfolio-option.php:39
+msgid "Style 1"
+msgstr ""
+
+#: gdlr-portfolio-option.php:40
+msgid "Style 2"
+msgstr ""
+
+#: gdlr-portfolio-option.php:45
+msgid "Sidebar Layout"
+msgstr ""
+
+#: gdlr-portfolio-option.php:56
+msgid "Left Sidebar"
+msgstr ""
+
+#: gdlr-portfolio-option.php:62
+msgid "Right Sidebar"
+msgstr ""
+
+#: gdlr-portfolio-option.php:71
+msgid "Page Option"
+msgstr ""
+
+#: gdlr-portfolio-option.php:74
+msgid "Page Caption"
+msgstr ""
+
+#: gdlr-portfolio-option.php:78
+msgid "Header Background Image"
+msgstr ""
+
+#: gdlr-portfolio-option.php:79
+msgid "Upload"
+msgstr ""
+
+#: gdlr-portfolio-option.php:83
+msgid "Clients"
+msgstr ""
+
+#: gdlr-portfolio-option.php:103
+msgid "Thumbnail Type"
+msgstr ""
+
+#: gdlr-portfolio-option.php:106
+msgid "Feature Image"
+msgstr ""
+
+#: gdlr-portfolio-option.php:107 gdlr-portfolio-option.php:150
+msgid "Video"
+msgstr ""
+
+#: gdlr-portfolio-option.php:108 gdlr-portfolio-option.php:140
+#: gdlr-portfolio-option.php:151 gdlr-portfolio-option.php:167
+msgid "Slider"
+msgstr ""
+
+#: gdlr-portfolio-option.php:113
+msgid "Thumbnail Link"
+msgstr ""
+
+#: gdlr-portfolio-option.php:116
+msgid "Link to Portfolio"
+msgstr ""
+
+#: gdlr-portfolio-option.php:117
+msgid "Lightbox to Full Image"
+msgstr ""
+
+#: gdlr-portfolio-option.php:118
+msgid "Link to URL"
+msgstr ""
+
+#: gdlr-portfolio-option.php:119
+msgid "Lightbox Image"
+msgstr ""
+
+#: gdlr-portfolio-option.php:120
+msgid "Lightbox Video"
+msgstr ""
+
+#: gdlr-portfolio-option.php:125
+msgid "Specify Url"
+msgstr ""
+
+#: gdlr-portfolio-option.php:130
+msgid "Open In New Tab"
+msgstr ""
+
+#: gdlr-portfolio-option.php:135 gdlr-portfolio-option.php:162
+msgid "Video Url"
+msgstr ""
+
+#: gdlr-portfolio-option.php:145
+msgid "Inside Portfolio Thumbnail Type"
+msgstr ""
+
+#: gdlr-portfolio-option.php:148
+msgid "Same As Thumbnail Type"
+msgstr ""
+
+#: gdlr-portfolio-option.php:149
+msgid "Image"
+msgstr ""
+
+#: gdlr-portfolio-option.php:152
+msgid "Stack Images"
+msgstr ""
+
+#: gdlr-portfolio-option.php:157
+msgid "Image Url"
+msgstr ""
+
+#: gdlr-portfolio-option.php:187 gdlr-portfolio.php:42
+msgid "Project"
+msgstr ""
+
+#: gdlr-portfolio-option.php:191
+msgid "Category"
+msgstr ""
+
+#: gdlr-portfolio-option.php:194
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+
+#: gdlr-portfolio-option.php:197
+msgid "Tag"
+msgstr ""
+
+#: gdlr-portfolio-option.php:200
+msgid "Will be ignored when the portfolio filter option is enabled."
+msgstr ""
+
+#: gdlr-portfolio-option.php:203
+msgid "Project Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:206
+msgid "Classic Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:207
+msgid "Classic No Space Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:208
+msgid "Modern Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:209
+msgid "Modern No Space Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:210
+msgid "Medium Style"
+msgstr ""
+
+#: gdlr-portfolio-option.php:214
+msgid "Num Fetch"
+msgstr ""
+
+#: gdlr-portfolio-option.php:217
+msgid "Specify the number of portfolios you want to pull out."
+msgstr ""
+
+#: gdlr-portfolio-option.php:220
+msgid "Num Excerpt"
+msgstr ""
+
+#: gdlr-portfolio-option.php:226
+msgid "Project Size"
+msgstr ""
+
+#: gdlr-portfolio-option.php:238
+msgid "Project Layout Order"
+msgstr ""
+
+#: gdlr-portfolio-option.php:241
+msgid "FitRows ( Order items by row )"
+msgstr ""
+
+#: gdlr-portfolio-option.php:242
+msgid "Masonry ( Order items by spaces )"
+msgstr ""
+
+#: gdlr-portfolio-option.php:243
+msgid "Carousel ( Only For Grid And Modern Style )"
+msgstr ""
+
+#: gdlr-portfolio-option.php:246
+msgid "You can see an example of these two layout here"
+msgstr ""
+
+#: gdlr-portfolio-option.php:250
+msgid "Enable Project filter"
+msgstr ""
+
+#: gdlr-portfolio-option.php:253
+msgid ""
+"*** You have to select only 1 ( or none ) portfolio category when enable "
+"this option. This option cannot works with carousel function."
+msgstr ""
+
+#: gdlr-portfolio-option.php:256
+msgid "Thumbnail Size"
+msgstr ""
+
+#: gdlr-portfolio-option.php:259
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr ""
+
+#: gdlr-portfolio-option.php:262
+msgid "Order By"
+msgstr ""
+
+#: gdlr-portfolio-option.php:265
+msgid "Publish Date"
+msgstr ""
+
+#: gdlr-portfolio-option.php:266
+msgid "Title"
+msgstr ""
+
+#: gdlr-portfolio-option.php:267
+msgid "Random"
+msgstr ""
+
+#: gdlr-portfolio-option.php:271
+msgid "Order"
+msgstr ""
+
+#: gdlr-portfolio-option.php:274
+msgid "Descending Order"
+msgstr ""
+
+#: gdlr-portfolio-option.php:275
+msgid "Ascending Order"
+msgstr ""
+
+#: gdlr-portfolio-option.php:279
+msgid "Enable Pagination"
+msgstr ""
+
+#: gdlr-portfolio-option.php:283
+msgid "Margin Bottom"
+msgstr ""
+
+#: gdlr-portfolio-option.php:286
+msgid "Spaces after ending of this item"
+msgstr ""
+
+#: gdlr-portfolio.php:41 gdlr-portfolio.php:53
+msgid "Projects"
+msgstr ""
+
+#: gdlr-portfolio.php:43
+msgid "Add New"
+msgstr ""
+
+#: gdlr-portfolio.php:44
+msgid "Add New Project"
+msgstr ""
+
+#: gdlr-portfolio.php:45
+msgid "Edit Project"
+msgstr ""
+
+#: gdlr-portfolio.php:46
+msgid "New Project"
+msgstr ""
+
+#: gdlr-portfolio.php:47
+msgid "All Projects"
+msgstr ""
+
+#: gdlr-portfolio.php:48
+msgid "View Project"
+msgstr ""
+
+#: gdlr-portfolio.php:49
+msgid "Search Project"
+msgstr ""
+
+#: gdlr-portfolio.php:50
+msgid "No projects found"
+msgstr ""
+
+#: gdlr-portfolio.php:51
+msgid "No projects found in Trash"
+msgstr ""
+
+#: gdlr-portfolio.php:74
+msgid "Project Categories"
+msgstr ""
+
+#: gdlr-portfolio.php:75
+msgid "Project Category"
+msgstr ""
+
+#: gdlr-portfolio.php:84
+msgid "Project Tags"
+msgstr ""
+
+#: gdlr-portfolio.php:85
+msgid "Project Tag"
+msgstr ""
+
+#: single-portfolio-blog.php:46 single-portfolio.php:78
+msgid "Pages:"
+msgstr ""
+
+#: single-portfolio-blog.php:67
+msgid "About Post Author"
+msgstr ""
+
+#: single-portfolio.php:73
+msgid "Project Detail"
+msgstr ""
+
+#: single-portfolio.php:87
+msgid "Previous Project"
+msgstr ""
+
+#: single-portfolio.php:92
+msgid "Next Project"
+msgstr ""
+
+#: single-portfolio.php:142
+msgid "Related Projects"
+msgstr ""

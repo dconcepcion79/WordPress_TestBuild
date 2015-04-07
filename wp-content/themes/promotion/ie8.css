@@ -1,0 +1,19 @@
+#horiz_m .slidemenu ul li ul {
+  visibility: collapse;
+  border:1px solid #eee;
+}
+
+#horiz_m .slidemenu ul li ul li a:hover {
+  visibility: visible !important;
+}
+
+#horiz_m .slidemenu li:hover ul{  
+display: block;
+}
+
+#horiz_m .slidemenu ul li ul li a{ margin-right:-2px;}
+
+.portfolio-one li { float:left;}
+.portfolio-two li { float:left;}
+.portfolio-three li { float:left;}
+.portfolio-four li { float:left;}

@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Promotion WordPress Theme\n"
+"POT-Creation-Date: 2012-02-24 14:07+00:00\n"
+"PO-Revision-Date: 2012-02-24 14:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: promotion/loop-single.php:34
+#: promotion/loop.php:42
+msgid " Edit"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-archive.php:15
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:85
+msgid "%1$s"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-single.php:28
+#: promotion/loop.php:26
+msgid "%2$s"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:87
+#: promotion/functions/content_elements.php:116
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-archive.php:15
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: promotion/comments.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: promotion/comments.php:71
+msgid "Add a Comment"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:109
+msgid "Add comment"
+msgstr ""
+
+#. Text in echo
+#: promotion/portfolio-four.php:25
+#: promotion/portfolio-one.php:25
+#: promotion/portfolio-two.php:26
+#: promotion/portfolio-three.php:25
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: promotion/loop.php:7
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: promotion/loop-archive.php:4
+msgid "Apologies, but no results were found for your request. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: promotion/header.php:82
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: promotion/single-portfolio.php:33
+msgid "Back"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:55
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in function
+#: promotion/comments.php:83
+msgid "Click here to cancel reply."
+msgstr ""
+
+#. Text in function
+#: promotion/loop.php:32
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: promotion/loop.php:32
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: promotion/header.php:76
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-page.php:8
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:101
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: promotion/loop.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:96
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:96
+msgid "Logged in as "
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:98
+msgid "Login Form"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:72
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: promotion/header.php:78
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:98
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: promotion/comments.php:60
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-archive.php:15
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: promotion/loop.php:5
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: promotion/header.php:69
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-single.php:6
+#: promotion/loop.php:58
+#: promotion/loop-page.php:7
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:82
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: promotion/loop.php:17
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: promotion/functions/content_elements.php:116
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:16
+msgid "Posted on"
+msgstr ""
+
+#. Text in function
+#: promotion/loop.php:53
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:96
+msgid "Recover password"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:94
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:87
+msgid "Remember me"
+msgstr ""
+
+#. Text in function
+#: promotion/comments.php:71
+msgid "Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: promotion/searchform.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: promotion/header.php:62
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: promotion/404.php:8
+msgid "The page you were looking for doesn\\'t exist."
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:51
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:53
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: promotion/functions/widgets/sidebar-login/sidebar-login.php:79
+msgid "User"
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:33
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:104
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: promotion/header.php:80
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:89
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#. Text in echo
+#: promotion/comments.php:108
+msgid "Your Comments"
+msgstr ""
+
+#. Text in echo
+#: promotion/functions/content_elements.php:97
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: promotion/functions/content_elements.php:18
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: promotion/loop-single.php:25
+#: promotion/loop.php:23
+msgid "in"
+msgstr ""

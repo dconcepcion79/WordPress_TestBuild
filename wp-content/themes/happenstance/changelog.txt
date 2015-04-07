@@ -1,0 +1,60 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(10/03/2015) - Update - Version 1.1.1
+
+[+] Added Italian translation.
+[+] Added Dutch translation.
+[*] Updated Spanish translation.
+
+----
+
+(07/02/2015) - Update - Version 1.1.0
+
+[+] Added support for the Title Tag feature.
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated editor-style.css.
+
+----
+
+(20/01/2015) - Update - Version 1.0.3
+
+[+] Added support for Post Formats feature.
+[*] Used esc_html() to escape regular texts instead of esc_attr().
+[*] Updated displaying of the Main Header Menu.
+[*] Updated add_theme_support( 'woocommerce' ); in functions.php.
+[*] Updated translations.
+[x] Removed Premium options from the Theme Options page.
+
+----
+
+(16/01/2015) - Update - Version 1.0.2
+
+[+] Added search form on the 404 page.
+[*] Updated paginate_links() arguments (added "add_args").
+[*] Used wp_add_inline_style for the Theme Options output.
+[*] Increased line height for Site Title and Tagline.
+[*] Updated displaying of the "Footer notices" widget area (added padding so the text will never bump against the top of the container).
+[*] Updated translations.
+[x] Removed TGM-Plugin-Activation (the recommended plugins are now mentioned in "Theme Options > Suggested Plugins"). 
+
+----
+
+(10/12/2014) - Update - Version 1.0.1
+
+[*] Internationalized all text strings in Theme Options.
+[*] Updated POT catalog.
+[*] Updated language localizations.
+[*] Updated editor-style.css.
+
+----
+
+(04/12/2014) - The initial public release. - Version 1.0.0

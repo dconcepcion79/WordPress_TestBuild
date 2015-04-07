@@ -1,0 +1,97 @@
+/*
+* Stylesheet for grid system used by Neighborly.
+*/
+.row,
+.row-half-margin,
+.row-no-margin {
+	clear: both;
+	margin: 0 0 40px;
+	padding: 0;
+}
+.row-no-margin {
+	margin-bottom: 0;
+}
+.row-half-margin {
+	margin-bottom: 20px;
+}
+.section:before {
+	content: "";
+	display: table;
+}
+.section:after {
+	clear: both;
+	content: "";
+	display: table;
+}
+.col {
+	display: block;
+	float: left;
+	margin: 0 0 0 5%;
+}
+.col:first-child {
+	margin-left: 0;
+}
+.grid-12 {
+	width: 100%;
+}
+.grid-11 {
+	width: 91.25%;
+}
+.grid-10 {
+	width: 82.5%;
+}
+.grid-9 {
+	width: 73.75%;
+}
+.grid-8 {
+	width: 65%;
+}
+.grid-7 {
+	width: 56.25%;
+}
+.grid-6 {
+	width: 47.5%;
+}
+.grid-5 {
+	width: 38.75%;
+}
+.grid-4 {
+	width: 30%;
+}
+.grid-3 {
+	width: 21.25%;
+}
+.grid-2 {
+	width: 12.5%;
+}
+.grid-1 {
+	width: 3.75%;
+}
+@media only screen and (max-width: 782px) {
+	.row {
+		clear: both;
+		margin: 0;
+		padding: 0;
+	}
+	.row-half-margin {
+		margin-bottom: 10px;
+	}
+	.col {
+		margin: 0 0 20px;
+	}
+	.grid-1,
+	.grid-2,
+	.grid-3,
+	.grid-4,
+	.grid-5,
+	.grid-6,
+	.grid-7,
+	.grid-8,
+	.grid-9,
+	.grid-10,
+	.grid-11,
+	.grid-12 {
+		display: block;
+		width: 100%;
+	}
+}

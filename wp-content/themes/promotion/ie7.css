@@ -1,0 +1,28 @@
+#horiz_m {position:relative; z-index:100 !important;left:0px;}
+#horiz_m .slidemenu ul li ul {
+  border:1px solid #eee;
+}
+
+.comment_arrow {margin-left:-10px !important;}
+.comment-container {margin-top:-17px !important;}
+
+#horiz_m .slidemenu ul li ul li a{margin: 0px -2px -2px 0px;}
+
+.subhead_shadow_bottom {display:none;}
+.subhead_shadow {display:none;}
+
+#horiz_m_bg #top_sidebar{position:absolute;}
+
+.menu_shadow {left:0px;}
+
+.magnifier2 .mosaic-overlay { left:0px !important;}
+
+.portfolio-one li { float:left;margin-bottom:10px;}
+.portfolio-two li { float:left;margin-bottom:10px;}
+.portfolio-three li { float:left;margin-bottom:10px;}
+.portfolio-four li { float:left;margin-bottom:10px;}
+
+
+#top_sidebar {overflow:hidden;right:145px;}
+
+.socialmedia-buttons img {padding-bottom:5px;}
